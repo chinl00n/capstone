@@ -1,0 +1,20 @@
+{
+  "source_rows": 3287,
+  "output_rows": 3287,
+  "countries": 173,
+  "year_min": 2000,
+  "year_max": 2018,
+  "indicators": 47,
+  "reference_discrepancies": 0,
+  "missing_measurements": 27490,
+  "duplicate_country_years": 0,
+  "unmatched_geography": 0,
+  "source_sha256": {
+    "README.md": "f4616ef8838f5d1622948b0717e5828a4f94fe019a903599f45a10fb7bfe558f",
+    "Country.xlsx": "0e8574a598dd37e576f50b3bb373fe4e0f4bea7f46e2e4b1d21e599f88857b69",
+    "Sustainability Dataset.csv": "a775d538fe184c3aaed6eb8afe4d877745d77a7fd2ca253ee9e8843720fde86e",
+    "Energy.xlsx": "7bfbe0485b3d50df1c445f15dba52314408c12599243e603d75b60fb6fe333fa",
+    "Continent.xlsx": "212fa8683e1c25986cb0b45d34b7f7cc5dd394d15d357275ec26fc77ca63f890",
+    "Electricity.xlsx": "0b49f57b132eff9e0e41cb116dc7269ca4d7b491eba89a084dd5948a7dc660e3"
+  }
+}

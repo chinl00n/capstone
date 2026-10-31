@@ -1,0 +1,52 @@
+﻿Column,MissingCount,MissingPercent
+Country Code,0,0
+Year,0,0
+Access to electricity (% of population) - EG.ELC.ACCS.ZS,94,2.85975053240036
+Adjusted net national income per capita (annual % growth) - NY.ADJ.NNTY.PC.KD.ZG,721,21.9348950410709
+"Adjusted net savings, excluding particulate emission damage (% of GNI) - NY.ADJ.SVNX.GN.ZS",659,20.0486766048068
+Adjusted savings: carbon dioxide damage (% of GNI) - NY.ADJ.DCO2.GN.ZS,67,2.03833282628537
+Adjusted savings: natural resources depletion (% of GNI) - NY.ADJ.DRES.GN.ZS,193,5.87161545482203
+Adjusted savings: net forest depletion (% of GNI) - NY.ADJ.DFOR.GN.ZS,176,5.35442652874962
+Adjusted savings: particulate emission damage (% of GNI) - NY.ADJ.DPEM.GN.ZS,188,5.71950106480073
+"Automated teller machines (ATMs) (per 100,000 adults) - FB.ATM.TOTL.P5",1002,30.4837237602677
+Broad money (% of GDP) - FM.LBL.BMNY.GD.ZS,510,15.5156677821722
+Children out of school (% of primary school age) - SE.PRM.UNER.ZS,1062,32.3090964405233
+"Compulsory education, duration (years) - SE.COM.DURS",308,9.37024642531183
+"Cost of business start-up procedures, female (% of GNI per capita) - IC.REG.COST.PC.FE.ZS",786,23.9123821113477
+"Cost of business start-up procedures, male (% of GNI per capita) - IC.REG.COST.PC.MA.ZS",786,23.9123821113477
+Exports of goods and services (% of GDP) - NE.EXP.GNFS.ZS,169,5.14146638271981
+Final consumption expenditure (% of GDP) - NE.CON.TOTL.ZS,240,7.30149072102221
+GDP (current US$) - NY.GDP.MKTP.CD,41,1.24733799817463
+GDP per capita (current US$) - NY.GDP.PCAP.CD,41,1.24733799817463
+General government final consumption expenditure (% of GDP) - NE.CON.GOVT.ZS,256,7.78825676909036
+Gross national expenditure (% of GDP) - NE.DAB.TOTL.ZS,240,7.30149072102221
+Gross savings (% of GDP) - NY.GNS.ICTR.ZS,513,15.606936416185
+Imports of goods and services (% of GDP) - NE.IMP.GNFS.ZS,169,5.14146638271981
+"Inflation, consumer prices (annual %) - FP.CPI.TOTL.ZG",204,6.20626711286888
+"Primary completion rate, total (% of relevant age group) - SE.PRM.CMPT.ZS",1061,32.278673562519
+Proportion of seats held by women in national parliaments (%) - SG.GEN.PARL.ZS,225,6.84514755095832
+"Pupil-teacher ratio, primary - SE.PRM.ENRL.TC.ZS",921,28.0194706419227
+Renewable electricity output (% of total electricity output) - EG.ELC.RNEW.ZS,516,15.6982050501977
+Renewable energy consumption (% of total final energy consumption) - EG.FEC.RNEW.ZS,0,0
+"School enrollment, preprimary (% gross) - SE.PRE.ENRR",938,28.5366595679951
+"School enrollment, primary (% gross) - SE.PRM.ENRR",504,15.3331305141466
+"School enrollment, secondary (% gross) - SE.SEC.ENRR",857,26.0724064496501
+Trade (% of GDP) - NE.TRD.GNFS.ZS,169,5.14146638271981
+Women Business and the Law Index Score (scale 1-100) - SG.LAW.INDX,76,2.3121387283237
+Prevalence of undernourishment (%) - SN_ITK_DEFC - 2.1.1,1453,44.2044417401886
+Proportion of population below international poverty line (%) - SI_POV_DAY1 - 1.1.1,1983,60.328567082446
+Proportion of population covered by at least a 2G mobile network (%) - IT_MOB_2GNTWK - 9.c.1,938,28.5366595679951
+Proportion of population covered by at least a 3G mobile network (%) - IT_MOB_3GNTWK - 9.c.1,1930,58.7161545482203
+Proportion of population using basic drinking water services (%) - SP_ACS_BSRVH2O - 1.4.1,1450,44.1131731061758
+"Unemployment rate, male (%) - SL_TLF_UEM - 8.5.2",1480,45.0258594463036
+"Unemployment rate, women (%) - SL_TLF_UEM - 8.5.2",1481,45.0562823243079
+"Annual production-based emissions of carbon dioxide (CO2), measured in million tonnes",2,0.0608457560085184
+Gini index (World Bank estimate) - SI.POV.GINI,1984,60.3589899604503
+Income Classification (World Bank Definition),2,0.0608457560085184
+Individuals using the Internet (% of population) - IT.NET.USER.ZS,301,9.15728627928202
+"Life expectancy at birth, total (years) - SP.DYN.LE00.IN",191,5.81076969881351
+"Population, total - SP.POP.TOTL",181,5.50654091877092
+Regime Type (RoW Measure Definition),211,6.41922725889869
+Rural population (% of total population) - SP.RUR.TOTL.ZS,9,0.273805902038333
+Total natural resources rents (% of GDP) - NY.GDP.TOTL.RT.ZS,234,7.11895345299665
+Urban population (% of total population) - SP.URB.TOTL.IN.ZS,181,5.50654091877092
